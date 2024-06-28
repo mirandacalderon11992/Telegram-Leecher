@@ -69,7 +69,7 @@ class BotTimes:
 
 
 class Paths:
-    WORK_PATH = "/content/Telegram-Leecher/BOT_WORK"
+    WORK_PATH = "/content/drive/MyDrive/Telegram-Leecher/BOT_WORK"
     THMB_PATH = "/content/Telegram-Leecher/colab_leecher/Thumbnail.jpg"
     VIDEO_FRAME = f"{WORK_PATH}/video_frame.jpg"
     HERO_IMAGE = f"{WORK_PATH}/Hero.jpg"
